@@ -1,0 +1,21 @@
+# Binaries
+**/bin/
+bin-int/
+Intermediates/
+build/
+
+# Engine files
+*.log
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.csproj
+
+#VS Code files and folders
+.vscode/
+# Directories
+res/AL_Bistro/
