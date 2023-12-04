@@ -1,7 +1,7 @@
-# Tessellation-Terrain-Generation-
+# Terrain-Generation-
 
 # About
-A simple Project to Learn Tesselation Shaders built to learn about OpenGL and Graphics Programming.
+A simple Project to Learn Shaders built to learn about OpenGL and Graphics Programming.
 
 Dependencies:  
 * GLFW
